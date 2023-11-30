@@ -1,2 +1,2 @@
 # Image-Generation-Ai
-Ai that can generate images using prompts (uses hugging face)
+This is a simple image genrating ai for generating images for you, its free.
